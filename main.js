@@ -1,7 +1,7 @@
 let project = document.getElementById("mainrep");
 let firstSection = document.createElement("SECTION");
 let text = document.createTextNode("Jim Cooper can be quoted as saying: I plan on making chocolate milk free for everyone");
-ptag.appendChild(text);
+firstSection.appendChild(text);
 project.appendChild(firstSection);
 
 
